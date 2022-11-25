@@ -1,0 +1,124 @@
+[
+  {
+    "author": {
+      "firstName": "柚子",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac"
+    },
+    "createdAt": 1655648400000,
+    "id": "6a1a4351-cf05-4d0c-9d0f-47ed378b6112",
+    "mimeType": "application/pdf",
+    "name": "Test.pdf",
+    "size": 10550000,
+    "status": "seen",
+    "type": "file",
+    "uri": "https://www.esmadrid.com/sites/default/files/documentos/madrid_imprescindible_2016_ing_web_0.pdf"
+  },
+  {
+    "author": {
+      "firstName": "uni",
+      "imageUrl": "https://chat.shenmo.tech/avatar/uni",
+      "id": "8i0307ba-3d40-442f-b1ff-b271f85604ca"
+    },
+    "createdAt": 1655648404000,
+    "id": "e78kd379-52bf-4d4e-bn7a-7a067867b27a",
+    "status": "seen",
+    "text": "管他的",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Riceneeder",
+      "imageUrl": "https://chat.shenmo.tech/avatar/riceneeder",
+      "id": "8i0307ba-3d40-442f-b1ff-b271f63904ca"
+    },
+    "createdAt": 1655648404000,
+    "id": "e78kd379-52bf-4d4e-bn7a-7a0f8467b27a",
+    "status": "seen",
+    "text": "撕裂感不太大都可以接受",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "柚子",
+      "imageUrl": "https://chat.shenmo.tech/avatar/Yoyo",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac"
+    },
+    "createdAt": 1655648404000,
+    "id": "e78kd379-52bf-4d4e-ba2a-5a0f7867b27a",
+    "status": "seen",
+    "text": "分别适配了",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "柚子",
+      "imageUrl": "https://chat.shenmo.tech/avatar/Yoyo",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac"
+    },
+    "createdAt": 1655648404000,
+    "id": "e78kd379-52bf-4d4e-ba2a-7a0f7867b29a",
+    "status": "seen",
+    "text": "想全部兼容那就只能",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "柚子",
+      "imageUrl": "https://chat.shenmo.tech/avatar/Yoyo",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac"
+    },
+    "createdAt": 1655648404000,
+    "id": "e78kd379-52bf-4d4e-ba2a-7a0f7867b27a",
+    "status": "seen",
+    "text": "不同平台风格都不同",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Riceneeder",
+      "imageUrl": "https://chat.shenmo.tech/avatar/riceneeder",
+      "id": "8i0307ba-3d40-442f-b1ff-b271f63904ca"
+    },
+    "createdAt": 1655648404000,
+    "id": "e78kd379-52bf-4d4e-ba2a-7a0f8467b27a",
+    "status": "seen",
+    "text": "但挺适合gnome的",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Riceneeder",
+      "imageUrl": "https://chat.shenmo.tech/avatar/riceneeder",
+      "id": "8i0307ba-3d40-442f-b1ff-b271f63904ca"
+    },
+    "createdAt": 1655648404000,
+    "id": "e78kd379-52bf-4d4e-ba2a-7a0f8467b22a",
+    "status": "seen",
+    "text": "风格上",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "Riceneeder",
+      "imageUrl": "https://chat.shenmo.tech/avatar/riceneeder",
+      "id": "8i0307ba-3d40-442f-b1ff-b271f63904ca"
+    },
+    "createdAt": 1655648404000,
+    "id": "e78kd376-52bf-4d4e-ba2a-7a0f8467b22a",
+    "status": "seen",
+    "text": "但在比如说kde会不会有撕裂感",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "神末shenmo",
+      "imageUrl": "https://chat.shenmo.tech/avatar/shenmo",
+      "id": "4c2307ba-3d40-442f-b1ff-b271f63904ca"
+    },
+    "createdAt": 1655648404000,
+    "id": "c67ed376-52bf-4d4e-ba2a-7a0f8467b22a",
+    "status": "seen",
+    "text": "喜欢蓝色",
+    "type": "text"
+  }
+]
